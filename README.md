@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi, I'm Chuah Kee Man 👋
 
-**keemanxp/keemanxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🤖 I’m currently working on Large Language Models for local Sarawakian languages 
+- 💻 My expertise is in educational technology and e-learning
 
