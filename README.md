@@ -1,4 +1,4 @@
-### Hi, I'm Chuah Kee Man 👋
+### Hi, I'm Kee-Man 👋
 
 About Me
 
