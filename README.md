@@ -1,7 +1,5 @@
 ### Hi, I'm Kee-Man 👋
-
 About Me
-
 - 🤖 I'm currently developing (small) Language Models for various educational purposes and language preservation projects.
 - 💻 My expertise is in educational technology, instructional design, computational linguistics and coffee tasting ☕
 
