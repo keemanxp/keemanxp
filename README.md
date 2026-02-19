@@ -19,3 +19,4 @@ List of Created Tools
 - 📱 NLMPrompts - NotebookLM Prompts for Infographic and slide deck: https://nlmprompts.keeman.app/
 - 📱 NotebookLM Style Prompter Chrome Extension: https://nlmprompts.keeman.app/extension
 - 📱 NotebookLM Quiz Exporter Chrome Extension: https://nlmexporter.keeman.app/
+- Scopus Journal Explore - https://scopus.keeman.app/
