@@ -15,3 +15,7 @@ List of Created Apps
 - 📱 AMICA - Adaptive mobile interactive coach for academic English
 - List of awards for these apps: https://chuahkeeman.net/#awards 
 
+List of Created Tools
+- 📱 NLMPrompts - NotebookLM Prompts for Infographic and slide deck: https://nlmprompts.keeman.app/
+- 📱 NotebookLM Style Prompter Chrome Extension: https://nlmprompts.keeman.app/extension
+- 📱 NotebookLM Quiz Exporter Chrome Extension: https://nlmexporter.keeman.app/
